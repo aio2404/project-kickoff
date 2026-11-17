@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Kickoff"
+  short_description: "Scoped setup and direct Claude-to-Codex delegation"
+  default_prompt: "Use $project-kickoff to prepare this project and organize direct Claude-to-Codex delegation through a verified first prototype."

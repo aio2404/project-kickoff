@@ -1,0 +1,12 @@
+{
+  "name": "project-kickoff-marketplace",
+  "owner": { "name": "Project Kickoff contributors" },
+  "plugins": [
+    {
+      "name": "project-kickoff",
+      "source": "./",
+      "description": "Start a project with scoped profiles and verified agent handoffs.",
+      "version": "1.0.0"
+    }
+  ]
+}
